@@ -1,0 +1,10 @@
+Equivalence Type,Rater,Condition,MQM Score
+Denotative,Rater X,Default,65
+Denotative,Rater X,Modified,72
+Denotative,Rater Y,Default,90
+Denotative,Rater Y,Modified,94
+Denotative,Rater Z,Default,80
+Denotative,Rater Z,Modified,86
+Connotative,Rater X,Default,65
+Connotative,Rater X,Modified,80
+... (repeat for all raters and all equivalences)
